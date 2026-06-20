@@ -1,0 +1,20 @@
+{
+  "name": "Bar Tab",
+  "short_name": "Bar Tab",
+  "start_url": "/bar-tab/bar-tab.html",
+  "display": "standalone",
+  "background_color": "#F5F8F5",
+  "theme_color": "#2E7D32",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/mieapp/bar-tab/main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/mieapp/bar-tab/main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
